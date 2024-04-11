@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/delbala/quartoDemo/compare/v1.2.0...v1.2.1) (2024-04-11)
+
+
+### Bug Fixes
+
+* typo ([5765c83](https://github.com/delbala/quartoDemo/commit/5765c8335116b0d2e58abb71b1664010dafc3507))
+
 ## [1.2.0](https://github.com/delbala/quartoDemo/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
