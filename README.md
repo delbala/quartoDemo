@@ -1,5 +1,9 @@
 # Quarto demo 
 
+## Contributor Code of conduct
+
+Please note that this project is released with a [contributor convenant]https://www.contributor-covenant.org/
+
 ## Citation 
 
 If you use this code, please cite us: 
