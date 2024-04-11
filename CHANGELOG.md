@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/delbala/quartoDemo/compare/v1.4.0...v1.5.0) (2024-04-11)
+
+
+### Features
+
+* add doi in README.md ([eaeb9fa](https://github.com/delbala/quartoDemo/commit/eaeb9fab85db459d4c37e8a4131d39574e47d3d1))
+
 ## [1.4.0](https://github.com/delbala/quartoDemo/compare/v1.3.0...v1.4.0) (2024-04-11)
 
 
